@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    width: 100%;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+}
+
+.borda{
+    border: 2px tomato solid;
+    width: 650px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+/* .tamanho{
+    
+} */
+
